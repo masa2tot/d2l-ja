@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "title": "Dive into Deep Learning",
+      "path": "index.md"
+    },
+    {
+      "title": "付録:ディープラーニングのための数学",
+      "path": "chapter_appendix-mathematics-for-deep-learning/index.md"
+    },
+    {
+      "title": "付録:ディープラーニング用ツール",
+      "path": "chapter_appendix-tools-for-deep-learning/index.md"
+    },
+    {
+      "title": "注意メカニズム",
+      "path": "chapter_attention-mechanisms/index.md"
+    },
+    {
+      "title": "計算パフォーマンス",
+      "path": "chapter_computational-performance/index.md"
+    },
+    {
+      "title": "コンピュータービジョン",
+      "path": "chapter_computer-vision/index.md"
+    },
+    {
+      "title": "最新の畳み込みニューラルネットワーク",
+      "path": "chapter_convolutional-modern/index.md"
+    },
+    {
+      "title": "畳み込みニューラルネットワーク",
+      "path": "chapter_convolutional-neural-networks/index.md"
+    },
+    {
+      "title": "ディープラーニング計算",
+      "path": "chapter_deep-learning-computation/index.md"
+    },
+    {
+      "title": "敵対的生成ネットワーク",
+      "path": "chapter_generative-adversarial-networks/index.md"
+    },
+    {
+      "title": "取り付け",
+      "path": "chapter_installation/index.md"
+    },
+    {
+      "title": "はじめに",
+      "path": "chapter_introduction/index.md"
+    },
+    {
+      "title": "リニアニューラルネットワーク",
+      "path": "chapter_linear-networks/index.md"
+    },
+    {
+      "title": "多層パーセプトロン",
+      "path": "chapter_multilayer-perceptrons/index.md"
+    },
+    {
+      "title": "自然言語処理:アプリケーション",
+      "path": "chapter_natural-language-processing-applications/index.md"
+    },
+    {
+      "title": "自然言語処理:事前訓練",
+      "path": "chapter_natural-language-processing-pretraining/index.md"
+    },
+    {
+      "title": "表記法",
+      "path": "chapter_notation/index.md"
+    },
+    {
+      "title": "最適化アルゴリズム",
+      "path": "chapter_optimization/index.md"
+    },
+    {
+      "title": "序文",
+      "path": "chapter_preface/index.md"
+    },
+    {
+      "title": "予選",
+      "path": "chapter_preliminaries/index.md"
+    },
+    {
+      "title": "レコメンダーシステム",
+      "path": "chapter_recommender-systems/index.md"
+    },
+    {
+      "title": "最新のリカレントニューラルネットワーク",
+      "path": "chapter_recurrent-modern/index.md"
+    },
+    {
+      "title": "リカレントニューラルネットワーク",
+      "path": "chapter_recurrent-neural-networks/index.md"
+    },
+    {
+      "title": "zreferences",
+      "path": "chapter_references/zreferences.md"
+    }
+  ]
+}
