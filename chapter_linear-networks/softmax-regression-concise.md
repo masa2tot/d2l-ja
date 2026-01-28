@@ -124,7 +124,7 @@ trainer = tf.keras.optimizers.SGD(learning_rate=.1)
 
 ## 訓練
 
-次に :numref:`sec_softmax_scratch` で [**定義されたトレーニング関数を呼び出します**](~~以前~~)、モデルをトレーニングします。
+次に :numref:`sec_softmax_scratch` で **定義されたトレーニング関数を呼び出します** (~~以前~~)、モデルをトレーニングします。
 
 ```{.python .input}
 #@tab all
