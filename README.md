@@ -17,3 +17,14 @@
 [[Chinese version](https://github.com/diveintodeeplearning)] [[Discuss and report issues](https://discuss.mxnet.io/)] 
 
 
+
+## GitHub Pages
+
+`docs/` 配下の静的 HTML を GitHub Pages で公開するため、GitHub Actions のデプロイ設定を追加しました。
+GitHub のリポジトリ設定で Pages のソースを「GitHub Actions」に変更すると、`main` ブランチの更新で自動的に公開されます。
+
+1. Settings → Pages を開く。
+2. Source を「GitHub Actions」に設定する。
+3. `main` ブランチへ push するとデプロイが走る。
+
+公開されるトップページは `docs/index.html` です。
