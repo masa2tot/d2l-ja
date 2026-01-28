@@ -2,6 +2,7 @@
 **/__pycache__
 data/
 *.json
+!docs/manifest.json
 *.params
 *.DS_Store
 *.Rhistory
